@@ -475,6 +475,11 @@
           "height": 1346,
           "width": 986
         }
+      },
+      {
+        "title": "Milestone 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
